@@ -1,0 +1,14 @@
+Resumo do Projeto Estudo
+
+INTRO
+Projeto com base no Curso da Udemy (Node Js 0 API Restify)
+- Muito comentado, e com muita duplicidade de código a fim de deixar insumo para tirar dúvidas
+- pasta 'node-example' inicio de Estudo
+
+
+## Aulas Inicias
+- Node Js - JavaScript Puro
+- 'Global', é para uso no servidor
+- a chamada da variavel de ambiente 'node' no console, abre linhas para exeucutar como um editor de texto
+- process.arg , você pegas os argumentos passado ao Node
+
