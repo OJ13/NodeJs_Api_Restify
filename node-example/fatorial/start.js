@@ -21,5 +21,17 @@ const fatorial = (num) => {
             return num * fatorial (num - 1);
         }
     
-exports.fatorial = fatorial;
+//exports.fatorial = fatorial;
+module.exports = fatorial;
+
+/*
+module.exports = {
+    fatorial,
+    //funcao: funcao_2
+}
+*/
+
+
+
+
     

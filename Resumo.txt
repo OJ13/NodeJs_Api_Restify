@@ -11,4 +11,12 @@ Projeto com base no Curso da Udemy (Node Js 0 API Restify)
 - 'Global', é para uso no servidor
 - a chamada da variavel de ambiente 'node' no console, abre linhas para exeucutar como um editor de texto
 - process.arg , você pegas os argumentos passado ao Node
+- assinatura de um modulo padrao node, seria no caso ((function (exports, require, module, __filename, __dirname){...})
+- podemos exportar por (exports.[propriedade criada] = [função]) ou
+- podemos fazer um simples (module.exports = {função});
+- podemos exportar o objeto completo com funções e métodos (module.exports = { ... })
+- se criar uma pasta com o nome, e colocar dentro um arquivo chamado index, ele encontra da mesma forma
+- se quiser trocar o nome padrão de index, você pode criar um arquivo package.json, com um objeto main e novo arquivo que o node vai procurar
+
+
 
